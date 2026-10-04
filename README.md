@@ -2,7 +2,7 @@
 
 # SmartSurface
 
-**Мобильный робот для исследования стен и автоматизации отделочных работ**
+**Мобильный робот для проведения дефектоскопии и обработки стенных покрытий**
 
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Raspberry Pi 5](https://img.shields.io/badge/Raspberry_Pi_5-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
