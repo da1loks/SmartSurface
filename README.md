@@ -4,9 +4,14 @@
 
 **Мобильный робот для исследования стен и автоматизации отделочных работ**
 
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros)![Raspberry Pi 5](https://img.shields.io/badge/Raspberry_Pi_5-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)![Arduino Mega](https://img.shields.io/badge/Arduino_Mega-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Raspberry Pi 5](https://img.shields.io/badge/Raspberry_Pi_5-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino Mega](https://img.shields.io/badge/Arduino_Mega-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-[Архитектура](docs/ARCHITECTURE.md) · [ROS и API](docs/ROS_AND_WEB_API.md)
+[![Архитектура](https://img.shields.io/badge/Архитектура-8B6FE8?style=flat-square)](docs/ARCHITECTURE.md)
+[![ROS и API](https://img.shields.io/badge/ROS_и_API-8B6FE8?style=flat-square)](docs/ROS_AND_WEB_API.md)
+[![Arduino](https://img.shields.io/badge/Arduino-8B6FE8?style=flat-square)](docs/ARDUINO_PROTOCOL.md)
+[![Компьютерное зрение](https://img.shields.io/badge/Компьютерное_зрение-8B6FE8?style=flat-square)](docs/COMPUTER_VISION.md)
 
 
 
@@ -35,6 +40,14 @@ SmartSurface вырос из простой задачи: облегчить р�
 Схема показывает концепцию из презентации. Подробное описание текущего графа узлов и различий между одометрией и SLAM находится в [документе по архитектуре](docs/ARCHITECTURE.md).
 
 ## Программная часть
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue_3-184D40?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt 4](https://img.shields.io/badge/Nuxt_4-002E3B?style=flat-square&logo=nuxt&logoColor=00DC82)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Flask](https://img.shields.io/badge/Flask-252525?style=flat-square&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-536DFE?style=flat-square&logo=opencv&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 - **ROS 2 и Python** - узлы, сообщения датчиков, управление и связь с контроллером.
 - **Nuxt 4, Vue 3 и Tailwind CSS** - интерфейс оператора.
